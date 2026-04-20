@@ -1,39 +1,39 @@
-﻿codigo_iso,Suma de anio,Suma de dias_con_heladas,eventos_extremos,Suma de humedad_relativa_promedio,Suma de indice_aridez,Suma de meses_estres_hidrico,pais,Suma de precipitacion_total,region_nombre,Suma de temperatura_maxima,Suma de temperatura_promedio,Suma de temperatura_minima
-ARG,18143,489,,583,144.56,24,Argentina,7746,Cuyo,245.9,144.8,53.6
-ARG,16123,466,,494,83.16,44,Argentina,5304,Pampa Húmeda,207,142,62.5
-ARG,12093,362,,392,87.19,24,Argentina,4976,Patagonia,164.6,98.2,48.2
+codigo_iso,Suma de anio,Suma de dias_con_heladas,eventos_extremos,Suma de humedad_relativa_promedio,Suma de indice_aridez,Suma de meses_estres_hidrico,pais,Suma de precipitacion_total,region_nombre,Suma de temperatura_maxima,Suma de temperatura_promedio,Suma de temperatura_minima
+ARG,18143,489,sin evento,583,144.56,24,Argentina,7746,Cuyo,245.9,144.8,53.6
+ARG,16123,466,sin evento,494,83.16,44,Argentina,5304,Pampa Húmeda,207.0,142.0,62.5
+ARG,12093,362,sin evento,392,87.19,24,Argentina,4976,Patagonia,164.6,98.2,48.2
 ARG,2012,76,granizo,67,11.46,2,Argentina,961,Cuyo,37.3,23.3,10.1
-ARG,2019,18,helada_tardia,82,19.23,3,Argentina,900,Pampa Húmeda,22,13,3.4
-ARG,4028,136,helada_tardia,113,55.35,3,Argentina,2289,Patagonia,43.5,23,8.5
-ARG,2015,92,incendios,56,28.77,2,Argentina,1160,Patagonia,20.4,11.2,6
+ARG,2019,18,helada_tardia,82,19.23,3,Argentina,900,Pampa Húmeda,22.0,13.0,3.4
+ARG,4028,136,helada_tardia,113,55.35,3,Argentina,2289,Patagonia,43.5,23.0,8.5
+ARG,2015,92,incendios,56,28.77,2,Argentina,1160,Patagonia,20.4,11.2,6.0
 ARG,2013,17,ola_calor,70,18.21,0,Argentina,1390,Pampa Húmeda,31.4,21.2,9.9
 ARG,4034,128,ola_calor,135,30.62,4,Argentina,2395,Patagonia,64.6,43.8,20.5
 ARG,4031,84,sequia_extrema,137,39.53,3,Argentina,2201,Patagonia,55.7,34.8,12.6
 ARG,2013,17,sequia_moderada,70,18.21,0,Argentina,1390,Pampa Húmeda,31.4,21.2,9.9
-ARG,4028,136,sequia_severa,113,55.35,3,Argentina,2289,Patagonia,43.5,23,8.5
-AUS,18140,484,,522,158.46,27,Australia,9606,Murray-Darling Basin,230.5,165.8,101.4
-AUS,10078,460,,291,83.02,10,Australia,5268,Queensland Coast,141.9,89.6,45.6
-AUS,12090,364,,402,114.9,25,Australia,5423,Wheatbelt,131,82,14.5
-AUS,4039,114,helada_tardia,110,46.05,3,Australia,2744,Wheatbelt,56,32.9,15.3
+ARG,4028,136,sequia_severa,113,55.35,3,Argentina,2289,Patagonia,43.5,23.0,8.5
+AUS,18140,484,sin evento,522,158.46,27,Australia,9606,Murray-Darling Basin,230.5,165.8,101.4
+AUS,10078,460,sin evento,291,83.02,10,Australia,5268,Queensland Coast,141.9,89.6,45.6
+AUS,12090,364,sin evento,402,114.9,25,Australia,5423,Wheatbelt,131.0,82.0,14.5
+AUS,4039,114,helada_tardia,110,46.05,3,Australia,2744,Wheatbelt,56.0,32.9,15.3
 AUS,2015,119,incendios,79,15.27,1,Australia,1198,Queensland Coast,34.4,21.8,11.9
-AUS,2020,56,incendios,68,26.16,3,Australia,1620,Wheatbelt,31,17.2,7.6
+AUS,2020,56,incendios,68,26.16,3,Australia,1620,Wheatbelt,31.0,17.2,7.6
 AUS,2015,87,inundacion,67,16.69,4,Australia,1466,Murray-Darling Basin,36.1,24.4,10.6
 AUS,4026,219,inundacion,161,25.91,2,Australia,2110,Queensland Coast,68.9,45.6,21.2
-AUS,2020,56,inundacion,68,26.16,3,Australia,1620,Wheatbelt,31,17.2,7.6
-AUS,2017,115,ola_calor,77,6.89,3,Australia,595,Queensland Coast,32.6,24,9.9
-AUS,2014,8,ola_calor,83,9.05,7,Australia,684,Wheatbelt,35.6,21,15.4
-AUS,2018,20,sequia_extrema,66,9.61,6,Australia,796,Queensland Coast,29.2,23,8.9
+AUS,2020,56,inundacion,68,26.16,3,Australia,1620,Wheatbelt,31.0,17.2,7.6
+AUS,2017,115,ola_calor,77,6.89,3,Australia,595,Queensland Coast,32.6,24.0,9.9
+AUS,2014,8,ola_calor,83,9.05,7,Australia,684,Wheatbelt,35.6,21.0,15.4
+AUS,2018,20,sequia_extrema,66,9.61,6,Australia,796,Queensland Coast,29.2,23.0,8.9
 AUS,4026,52,sequia_extrema,134,33.22,9,Australia,2285,Wheatbelt,67.6,39.4,26.3
 AUS,6045,162,sequia_severa,191,29.96,10,Australia,2470,Queensland Coast,90.6,68.6,26.4
-AUS,2014,8,sequia_severa,83,9.05,7,Australia,684,Wheatbelt,35.6,21,15.4
+AUS,2014,8,sequia_severa,83,9.05,7,Australia,684,Wheatbelt,35.6,21.0,15.4
 AUS,4029,120,tormenta_severa,148,20.25,7,Australia,1708,Queensland Coast,63.7,46.8,18.2
-BRA,12090,295,,300,60.46,32,Brasil,4282,Amazonía,175.1,116.7,48.3
-BRA,12090,363,,392,88.64,30,Brasil,5297,Cerrado,183.8,110.1,47.7
-BRA,16124,409,,512,119.51,23,Brasil,7586,Mata Atlántica,239.4,145.4,66.1
+BRA,12090,295,sin evento,300,60.46,32,Brasil,4282,Amazonía,175.1,116.7,48.3
+BRA,12090,363,sin evento,392,88.64,30,Brasil,5297,Cerrado,183.8,110.1,47.7
+BRA,16124,409,sin evento,512,119.51,23,Brasil,7586,Mata Atlántica,239.4,145.4,66.1
 BRA,2016,101,helada_tardia,55,14.25,6,Brasil,677,Amazonía,24.8,13.2,6.8
 BRA,2018,60,helada_tardia,45,11.73,3,Brasil,587,Mata Atlántica,20.9,13.9,7.7
 BRA,2011,59,incendios,51,6.31,11,Brasil,445,Amazonía,30.6,19.6,4.7
-BRA,4033,196,incendios,134,38.14,3,Brasil,2118,Cerrado,52,31,13.2
+BRA,4033,196,incendios,134,38.14,3,Brasil,2118,Cerrado,52.0,31.0,13.2
 BRA,2013,107,inundacion,40,4.82,9,Brasil,333,Mata Atlántica,28.8,19.2,5.1
 BRA,2018,72,sequia_extrema,63,8.65,4,Brasil,629,Amazonía,30.4,20.2,14.9
 BRA,4032,143,sequia_extrema,143,15.13,19,Brasil,1097,Cerrado,66.4,42.4,15.1
@@ -43,66 +43,66 @@ BRA,2011,59,sequia_severa,51,6.31,11,Brasil,445,Amazonía,30.6,19.6,4.7
 BRA,2013,107,sequia_severa,40,4.82,9,Brasil,333,Mata Atlántica,28.8,19.2,5.1
 BRA,2011,59,tormenta_severa,51,6.31,11,Brasil,445,Amazonía,30.6,19.6,4.7
 BRA,4027,147,tormenta_severa,129,24.13,13,Brasil,1261,Cerrado,57.8,36.2,13.5
-CHN,16118,321,,437,123.08,34,China,6821,Región Principal,228.5,140.8,46.3
+CHN,16118,321,sin evento,437,123.08,34,China,6821,Región Principal,228.5,140.8,46.3
 CHN,2020,31,helada_tardia,84,12.29,1,China,956,Región Principal,29.8,21.6,8.3
 CHN,2017,18,inundacion,53,6.15,7,China,372,Región Principal,30.6,16.8,7.4
 CHN,2020,31,sequia_severa,84,12.29,1,China,956,Región Principal,29.8,21.6,8.3
 CHN,4037,49,tormenta_severa,137,18.44,8,China,1328,Región Principal,60.4,38.4,15.7
-DEU,18141,536,,606,133.56,44,Alemania,6870,Región Principal,224.7,137.3,57.8
+DEU,18141,536,sin evento,606,133.56,44,Alemania,6870,Región Principal,224.7,137.3,57.8
 DEU,2014,115,ola_calor,50,21.53,2,Alemania,1589,Región Principal,32.3,20.5,9.6
 DEU,2014,115,sequia_severa,50,21.53,2,Alemania,1589,Región Principal,32.3,20.5,9.6
-FRA,16126,463,,553,126.37,33,Francia,7948,Región Principal,226.6,144.1,69.4
-FRA,2016,67,helada_tardia,44,19.18,0,Francia,877,Región Principal,25.4,12.7,7
-FRA,2016,67,ola_calor,44,19.18,0,Francia,877,Región Principal,25.4,12.7,7
-FRA,4029,154,sequia_moderada,88,41.13,2,Francia,2086,Región Principal,50.5,28,10.2
+FRA,16126,463,sin evento,553,126.37,33,Francia,7948,Región Principal,226.6,144.1,69.4
+FRA,2016,67,helada_tardia,44,19.18,0,Francia,877,Región Principal,25.4,12.7,7.0
+FRA,2016,67,ola_calor,44,19.18,0,Francia,877,Región Principal,25.4,12.7,7.0
+FRA,4029,154,sequia_moderada,88,41.13,2,Francia,2086,Región Principal,50.5,28.0,10.2
 FRA,2013,87,tormenta_severa,44,21.95,2,Francia,1209,Región Principal,25.1,15.3,3.2
-IND,14105,408,,394,76.02,31,India,5159,Deccan,224.1,137.9,64.7
-IND,12085,362,,371,125.73,11,India,6322,Ganges,152,93.6,37.9
-IND,10073,214,,351,77.5,17,India,4510,Punjab,144,88.5,38.8
+IND,14105,408,sin evento,394,76.02,31,India,5159,Deccan,224.1,137.9,64.7
+IND,12085,362,sin evento,371,125.73,11,India,6322,Ganges,152.0,93.6,37.9
+IND,10073,214,sin evento,351,77.5,17,India,4510,Punjab,144.0,88.5,38.8
 IND,2018,12,granizo,61,13.44,1,India,948,Deccan,30.3,19.6,14.4
-IND,2016,49,granizo,58,15.53,0,India,1146,Ganges,35.1,20.5,6
+IND,2016,49,granizo,58,15.53,0,India,1146,Ganges,35.1,20.5,6.0
 IND,2018,18,granizo,40,26.95,0,India,1310,Punjab,26.4,13.5,-1.3
 IND,6057,172,helada_tardia,177,54.72,6,India,3126,Punjab,88.5,49.3,14.4
-IND,2012,76,incendios,78,7.1,7,India,588,Deccan,29,23,8
-IND,2019,51,incendios,76,18.54,1,India,1248,Punjab,30,18.7,5.5
+IND,2012,76,incendios,78,7.1,7,India,588,Deccan,29.0,23.0,8.0
+IND,2019,51,incendios,76,18.54,1,India,1248,Punjab,30.0,18.7,5.5
 IND,2020,94,inundacion,60,7.15,10,India,427,Deccan,29.3,16.6,6.1
 IND,4034,124,inundacion,123,31.27,3,India,2262,Ganges,67.7,40.2,14.2
-IND,2012,76,ola_calor,78,7.1,7,India,588,Deccan,29,23,8
+IND,2012,76,ola_calor,78,7.1,7,India,588,Deccan,29.0,23.0,8.0
 IND,6053,125,sequia_extrema,183,68.2,4,India,3804,Ganges,88.7,51.8,14.1
 IND,2018,12,sequia_moderada,61,13.44,1,India,948,Deccan,30.3,19.6,14.4
-IND,2017,118,sequia_moderada,53,16.27,2,India,1447,Ganges,36.8,24.7,13
+IND,2017,118,sequia_moderada,53,16.27,2,India,1447,Ganges,36.8,24.7,13.0
 IND,6043,148,sequia_moderada,133,56.01,7,India,3117,Punjab,80.4,48.2,17.8
-IND,2012,76,sequia_severa,78,7.1,7,India,588,Deccan,29,23,8
+IND,2012,76,sequia_severa,78,7.1,7,India,588,Deccan,29.0,23.0,8.0
 IND,4036,119,sequia_severa,113,53.2,3,India,2989,Ganges,57.8,36.3,12.9
 IND,4032,219,tormenta_severa,110,21.34,10,India,1344,Punjab,55.2,34.9,18.3
-KEN,10077,308,,274,65.08,13,Kenia,4619,Región Principal,162.3,102.6,43.4
+KEN,10077,308,sin evento,274,65.08,13,Kenia,4619,Región Principal,162.3,102.6,43.4
 KEN,4031,149,granizo,117,18.99,14,Kenia,1291,Región Principal,57.2,38.7,15.9
 KEN,4036,136,helada_tardia,148,18.23,15,Kenia,1281,Región Principal,63.6,41.2,19.6
 KEN,2019,59,inundacion,65,13.06,3,Kenia,851,Región Principal,26.3,18.1,5.1
 KEN,2017,77,ola_calor,83,5.17,12,Kenia,430,Región Principal,37.3,23.1,14.5
 KEN,2012,90,sequia_extrema,52,5.93,11,Kenia,440,Región Principal,30.9,20.6,10.8
 KEN,8059,283,sequia_severa,268,50.37,30,Kenia,2753,Región Principal,119.9,80.1,41.2
-MEX,16123,557,,461,112.68,39,México,7038,Región Principal,208.2,133.2,56.5
+MEX,16123,557,sin evento,461,112.68,39,México,7038,Región Principal,208.2,133.2,56.5
 MEX,2013,24,incendios,56,8.93,4,México,807,Región Principal,34.3,25.1,18.4
 MEX,2013,24,ola_calor,56,8.93,4,México,807,Región Principal,34.3,25.1,18.4
 MEX,2019,99,sequia_extrema,55,7.3,8,México,489,Región Principal,24.2,18.6,7.9
 MEX,2013,24,sequia_moderada,56,8.93,4,México,807,Región Principal,34.3,25.1,18.4
-USA,18136,307,,524,122.84,33,Estados Unidos,8122,California,269.9,168.8,91.4
-USA,14106,474,,480,121.21,21,Estados Unidos,7225,Corn Belt,187.1,125.4,49.1
-USA,14117,378,,370,113.01,15,Estados Unidos,7220,Great Plains,190.1,123,38
+USA,18136,307,sin evento,524,122.84,33,Estados Unidos,8122,California,269.9,168.8,91.4
+USA,14106,474,sin evento,480,121.21,21,Estados Unidos,7225,Corn Belt,187.1,125.4,49.1
+USA,14117,378,sin evento,370,113.01,15,Estados Unidos,7220,Great Plains,190.1,123.0,38.0
 USA,4038,53,granizo,107,45.79,4,Estados Unidos,2341,Corn Belt,48.6,28.5,8.3
 USA,2011,96,helada_tardia,47,23.45,4,Estados Unidos,1072,Corn Belt,22.7,12.7,1.4
 USA,2015,111,helada_tardia,72,19.03,7,Estados Unidos,788,Great Plains,20.9,11.5,6.2
-USA,2020,12,incendios,43,22.5,2,Estados Unidos,1385,Corn Belt,32,17.1,6.2
+USA,2020,12,incendios,43,22.5,2,Estados Unidos,1385,Corn Belt,32.0,17.1,6.2
 USA,2012,98,incendios,48,13.4,7,Estados Unidos,550,Great Plains,24.6,11.4,-0.5
 USA,2011,96,inundacion,47,23.45,4,Estados Unidos,1072,Corn Belt,22.7,12.7,1.4
 USA,2018,41,ola_calor,64,23.29,2,Estados Unidos,956,Corn Belt,16.6,11.4,2.1
 USA,2012,98,ola_calor,48,13.4,7,Estados Unidos,550,Great Plains,24.6,11.4,-0.5
 USA,2019,88,sequia_extrema,48,6.58,7,Estados Unidos,585,California,29.8,24.7,14.5
 USA,2011,96,sequia_extrema,47,23.45,4,Estados Unidos,1072,Corn Belt,22.7,12.7,1.4
-USA,2011,111,sequia_extrema,49,17.5,5,Estados Unidos,693,Great Plains,25.8,11,-1.3
+USA,2011,111,sequia_extrema,49,17.5,5,Estados Unidos,693,Great Plains,25.8,11.0,-1.3
 USA,2015,111,sequia_moderada,72,19.03,7,Estados Unidos,788,Great Plains,20.9,11.5,6.2
-USA,2020,12,sequia_severa,43,22.5,2,Estados Unidos,1385,Corn Belt,32,17.1,6.2
-USA,2011,111,sequia_severa,49,17.5,5,Estados Unidos,693,Great Plains,25.8,11,-1.3
+USA,2020,12,sequia_severa,43,22.5,2,Estados Unidos,1385,Corn Belt,32.0,17.1,6.2
+USA,2011,111,sequia_severa,49,17.5,5,Estados Unidos,693,Great Plains,25.8,11.0,-1.3
 USA,2018,41,tormenta_severa,64,23.29,2,Estados Unidos,956,Corn Belt,16.6,11.4,2.1
 USA,4027,209,tormenta_severa,120,32.43,14,Estados Unidos,1338,Great Plains,45.5,22.9,5.7
